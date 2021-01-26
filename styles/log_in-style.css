@@ -1,0 +1,16 @@
+.campos{
+   
+    flex-basis: auto;
+    flex-wrap: nowrap;
+}
+
+#home{
+   display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+.nuevo-fondo {
+    background-color: rgb(146, 168, 209);
+}
+
+
+.space-r {
+    padding-right: 10px;
+}
+
+.login-form
+{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.login-form .row
+{
+    margin-left: 0;
+    margin-right: 0;
+}
